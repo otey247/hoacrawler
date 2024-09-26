@@ -4,3 +4,4 @@ openai==1.47.1
 pandas==2.2.2
 crawl4ai==0.3.1
 streamlit==1.38.0
+selenium==4.25.0
